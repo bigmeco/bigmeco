@@ -7,11 +7,5 @@
  
 [<img align="left" alt="GitHub" width="455px" src="https://sun9-38.userapi.com/k_MVo06KTzd8f92CE18sHN_0rKktCx650n9GLQ/9-AebQStv38.jpg" />][website]
 
-</h3>
- <h3 align='right'>
-
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pn6tdyaa7rzfi37unwvwcv1nv&cover_image=true)](https://open.spotify.com/user/pn6tdyaa7rzfi37unwvwcv1nv)
-</h3>
-
 
 [website]: https://ru.stackoverflow.com/users/247272/bigmeco
